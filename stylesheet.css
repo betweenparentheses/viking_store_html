@@ -149,6 +149,11 @@ div {
 
 .navigator .current-page {
   font-weight: bold;
+  font-size: 14px;
+}
+
+.navigator a {
+  font-size: 14px;
 }
 
 .footer {
