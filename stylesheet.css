@@ -44,6 +44,7 @@ div {
 .store-headline {
   display: block;
   position: relative;
+  clear: all;
   width: 100%;
   height: 402px;
   margin-bottom: 35px;
