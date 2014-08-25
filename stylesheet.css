@@ -95,6 +95,7 @@ div {
   position: relative;
   background-color: #444;
   margin: 5px;
+  border: 1px solid #000;
 }
 
 .item h4 {
