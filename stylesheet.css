@@ -94,7 +94,7 @@ div {
   display: inline-block;
   position: relative;
   background-color: #444;
-  margin: 3px auto;
+  margin: 5px;
 }
 
 .item h4 {
