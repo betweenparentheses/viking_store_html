@@ -144,6 +144,7 @@ div {
 
 .item {
   width: 200px;
+  height: 210px;
   display: inline-block;
   position: relative;
   background-color: #444;
@@ -173,6 +174,7 @@ div {
 .item img {
   display: block;
   margin: 0 auto;
+  border: 1px solid #111;
 }
 
 .item .add-button-container {
@@ -190,3 +192,47 @@ div {
   border-bottom: solid 2px #000;
 }
 
+.navigator {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  line-height: 42px;
+  font-size: 14px;
+}
+
+.navigator .current-page {
+  font-weight: bold;
+}
+
+.footer {
+  background-color: #444;
+  color: #fff;
+  font-size: 12px;
+  text-align: center;
+  padding: 15px;
+}
+
+.footer h4 {
+  color: #FE8C0D;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+
+.footer p img {
+  margin: 0 5px;
+  vertical-align: middle;
+}
+
+.footer .contact-wrapper {
+  width: 100%;
+  line-height: 30px;
+  text-align: left;
+  display: inline-block;
+  position: relative;
+  left: 40%;
+}
+
+.footer .contact-wrapper .phone-number {
+  vertical-align: middle;
+}
